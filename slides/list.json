@@ -1,22 +1,119 @@
 [
-    "01-cover.jpg.html",
-    "02-school-days.jpg.html",
-    "03-ability.jpg.html",
-    "04-repeatability.jpg.html",
-    "05-docs.jpg.html",
-    "06-process.jpg.html",
-    "07-deploy.jpg.html",
-    "08-knuth.jpg.html",
-    "09-reproducibility.jpg.html",
-    "10-bugs.jpg.html",
-    "11-known-outcomes.jpg.html",
-    "12-worked-in-dev.jpg.html",
-    "13-infrastructure.jpg.html",
-    "14-snowflake.jpg.html",
-    "15-reliability.jpg.html",
-    "16-measure.jpg.html",
-    "17-monitor.jpg.html",
-    "18-calls.jpg.html",
-    "19-flexibility.jpg.html",
-    "20-pyramid.jpg.html"
+    {
+	"filename": "01-cover.jpg.html"
+    },
+    {
+	"filename": "02-school-days.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "03-ability.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "04-repeatability.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "05-docs.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "06-process.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "07-deploy.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "08-knuth.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "09-reproducibility.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "10-bugs.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "11-known-outcomes.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "12-worked-in-dev.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "13-infrastructure.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "14-snowflake.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "15-reliability.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "16-measure.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "17-monitor.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "18-calls.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "19-flexibility.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    },
+    {
+	"filename": "20-pyramid.jpg.html",
+	"attr": {
+	    "data-autoslide": "15000"
+	}
+    }
 ]
