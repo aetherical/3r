@@ -1,2 +1,4 @@
-# 3r
-3 'R' of DevOps
+# The Three 'R's of DevOps
+
+Slides from a talk originally given at DevOpsDays Ohio
+
